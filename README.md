@@ -10,7 +10,7 @@ Sorumlu olacağın projenin kodlarını çalıştırabilmek için;
 Bunları yaptıysan, sana yöneticin tarafından verilen ilk görevin 'Git'e aşina olmak' projesi. Projenin detaylarını aşağıdaki görevi adımları olarak bulabilirsin.
 
 ## Görev 1:
-
+x
 - [x] Bu repo'yu sağ üstteki Fork butonu ile kendi hesabında bir kopyasını oluştur.
 - [x] ❗**Kendi Github hesabında**❗oluşan kopya'yı aç. Bilgisayarınıza _clone_'lamak için sağ üstteki yeşil `Code` butonu ile SSH URL'i kopyala. SSH URL örneği: 
 `git@Github.com:senin-Github-hesabin/fsweb-s1g1-projesi-web-development-projesi-icin-git`
